@@ -1,5 +1,5 @@
 # Multi-adaboost
-Python implementation of multi-class adaboost decision trees.
+Python implementation of multi-class adaboost decision trees. Implementation of the SAMME multi class classificationn problem using AdaBoost with weak Decision trees. 
 
 References:
 
